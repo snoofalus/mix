@@ -1,3 +1,6 @@
 *.tar
+*.pyc
+
 /glcm@120
 glcm@120
+
