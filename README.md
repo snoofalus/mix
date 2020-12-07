@@ -1,4 +1,6 @@
 # MixMatch
+This is an implementation of Labelpropagation for large channel satellite images following the framework of Yui in https://github.com/YU1ut/MixMatch-pytorch
+
 This is an unofficial PyTorch implementation of [MixMatch: A Holistic Approach to Semi-Supervised Learning](https://arxiv.org/abs/1905.02249). 
 The official Tensorflow implementation is [here](https://github.com/google-research/mixmatch).
 
